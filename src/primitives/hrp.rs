@@ -43,7 +43,7 @@ macro_rules! define_hrp_const {
 }
 define_hrp_const! {
     /// The human-readable part used by the Bitcoin mainnet network.
-    pub const BC 2 [98, 105, 116, 0];
+    pub const BC 3 [98, 105, 116, 0];
 }
 define_hrp_const! {
     /// The human-readable part used by the Bitcoin testnet networks (testnet, signet).
